@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @scapevoid
+- 👀 I’m interested in: for now webdev
+- 🌱 I’m currently learning: HTML, CSS, JAVASCRIPT (still doesnt know what backend language use)
+- 💞️ I’m looking to collaborate: Any Company
+- 📫 How to reach me: @a5p1r1n on telegram
+- 😄 Pronouns: scape
+- ⚡ Fun fact: im 15... and i can write anything in any language(c++, c, javascript, python, luau)
+- and i wanna be: 🥇
