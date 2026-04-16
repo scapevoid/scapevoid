@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @scapevoid
-- 👀 I’m interested in: for now webdev
-- 🌱 I’m currently learning: HTML, CSS, JAVASCRIPT
+- 👀 I’m interested in: game dev, web dev, and applications
+- 🌱 I’m currently learning: c# (game dev)
 - 💞️ I’m looking to collaborate: Any Company
-- 📫 How to reach me: @a5p1r1n on telegram
+- 📫 How to reach me: @hightprince, @escapedgod, @lowprince on telegram
 - 😄 Pronouns: scape
-- ⚡ Fun fact: im 15... and i can write anything in any language(c++, c, javascript, python, luau)
+- ⚡ Fun fact: im 16... and i can write anything in any language(c++, c, javascript, python, luau, c#)
 - and i wanna be: 🥇
